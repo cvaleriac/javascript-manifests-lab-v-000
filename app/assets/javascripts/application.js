@@ -17,4 +17,4 @@
 //= require alert_maker
 //= require hello_world
 //= require learn
-//= require main 
+//= require main
